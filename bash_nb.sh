@@ -19,9 +19,9 @@ root_of_tree="./Boreiko"
 # tree 'pattern' - scheme 16.
 tree_patern=" \
 Boreiko/{\
-VARD/GR1,\
-VARE,\
-VARF/GR2\
+KKK/{GR1,GR2},\
+LLL,\
+MM\
 }"
 
 # tree 'patern':
