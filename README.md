@@ -19,7 +19,7 @@
 5 - mkdir repo1  
 6 - cd repo1  
 
-> ***Linux git main***
+> ***Linux git main***  
 1 - git clone "ssh URL of origin repo"  
 2 - cd devops_school  
 3 - ls -l  
